@@ -1,0 +1,11 @@
+streamlit
+requests
+python-dotenv
+google-generativeai
+googletrans==4.0.0-rc1
+speechrecognition
+edge-tts
+pyaudio
+pandas
+pyttsx3
+streamlit-webrtc
